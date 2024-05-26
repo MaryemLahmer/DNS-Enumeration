@@ -10,4 +10,4 @@ This script serves as a subdomain Enumeration tool, developed with Python, that 
 It uses a file that contains 100 subdomains and iterates through them to identify which ones are valid and which ones are not valid.
 
 # usage
-python3 dnsSubdomainEnumerate.py <domainName> 
+python3 dnsSubdomainEnumerate.py `<domainName> `
